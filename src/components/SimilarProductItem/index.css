@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.similat-img {
+  height: 150px;
+}
+.rating {
+  background-color: #3b82f6;
+  border-radius: 8px;
+  color: #ffffff;
+  width: 60px;
+  padding: 5px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lll {
+  margin: 10px;
+  list-style-type: none;
+}
